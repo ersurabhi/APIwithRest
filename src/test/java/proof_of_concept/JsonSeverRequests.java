@@ -19,8 +19,7 @@ public class JsonSeverRequests {
 	{
 		Response resp = given().when().get("http://localhost:3000/posts");
 		System.out.println("Get response is:"+resp.asString());
-	}
-//@Test 
+	}//@Test 
 
 public void Test_02()
 {
