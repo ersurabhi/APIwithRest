@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8187" started-at="2020-08-12T15:57:44Z" finished-at="2020-08-12T15:57:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8187" started-at="2020-08-12T15:57:44Z" finished-at="2020-08-12T15:57:52Z">
+      <class name="api.test.EEAPI">
+        <test-method status="PASS" signature="Test_Pneumovax()[pri:0, instance:api.test.EEAPI@6fa38a]" name="Test_Pneumovax" duration-ms="7996" started-at="2020-08-12T15:57:44Z" finished-at="2020-08-12T15:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Pneumovax -->
+      </class> <!-- api.test.EEAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
